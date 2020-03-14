@@ -4,5 +4,5 @@ function logMessage(message)
 }
 
 module.exports={
-    Logger:logMessage
+   Logger:logMessage
 }
